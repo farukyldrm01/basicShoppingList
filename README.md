@@ -72,26 +72,7 @@ Core Data'da **Alisveris** entity'si aşağıdaki özelliklere sahiptir:
 ### Ürün Silme
 - Ana listede bir ürünü sola kaydırarak silme seçeneğini görüntüleyin
 - **Sil** butonuna tıklayın
-
-## ⚠️ Bilinen Sorunlar ve İyileştirme Önerileri
-
-1. **Info.plist İzni**: `NSAppleMusicUsageDescription` yerine `NSPhotoLibraryUsageDescription` kullanılmalı
-2. **Hata Yönetimi**: Bazı catch bloklarında hata mesajları yazdırılmıyor
-3. **Görsel Zorunluluğu**: Kaydet butonu sadece görsel seçildikten sonra aktif oluyor, bu kullanıcı deneyimi açısından kısıtlayıcı olabilir
-4. **Fiyat Validasyonu**: Fiyat alanı için daha iyi validasyon eklenebilir
-5. **UI İyileştirmeleri**: Custom table view cell kullanılabilir
-6. **Core Data**: Fetch request'lerde daha optimize sorgular kullanılabilir
-
-## 👤 Geliştirici
-
-Ömer Faruk Yıldırım
-
-**Oluşturulma Tarihi**: 25 Aralık 2025
-
-## 📄 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
-
+- 
 ---
 
 ## 📝 English Summary
